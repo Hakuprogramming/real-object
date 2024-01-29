@@ -21,12 +21,12 @@ renderer.setSize(sizes.width, sizes.height)
 renderer.setPixelRatio(window.devicePixelRatio)
 
 const urls = [
-    "./envimage/right.png",
-    "./envImage/left.png",
-    "./envImage/up.png",
-    "./envImage/down.png",
-    "./envImage/front.png",
-    "./envImage/back.png",
+    "./public/right.png",
+    "./public/left.png",
+    "./public/up.png",
+    "./public/down.png",
+    "./public/front.png",
+    "./public/back.png",
     
 ]
 
